@@ -37,7 +37,7 @@ As a professional with over 3 years of experience in management and data analysi
 # Tools / software: 
 - Excel, Python(Pyspark, Matplotlib, Pandas, Numpy, Sklearn, Tableau, SQL)
 
-###Comandos importantes de bash###
+### Comandos importantes de bash ###
 
 | Nombre | Descripción                                                                                                                               |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,4 +46,14 @@ As a professional with over 3 years of experience in management and data analysi
 | mkdir  | Este comando se utiliza para crear un nuevo directorio.                                                                                   |
 | rm     | Este comando se utiliza para eliminar archivos y carpetas.                                                                                |
 | sudo   | Este comando se utiliza para ejecutar comandos con permisos de superusuario. Es útil para realizar tareas que requieren permisos elevados.|
+ 
+### Mis alias para el bash ###
+
+| Alias   | Comando                        | Descripción                                                                         |
+| ------- | ------------------------------ | ----------------------------------------------------------------------------------  |
+| ll      | ls -l                          | Muestra una lista detallada de los archivos y carpetas en un directorio.            |
+| c       | clear                          | Limpia la pantalla del terminal.                                                    |
+| h       | history                        | Muestra el historial de comandos ejecutados en el terminal.                         |
+| grep    | grep --color=auto              | Busca una cadena de texto en un archivo o en la salida de otro comando.             |
+| update  | sudo apt-get update && sudo apt-get upgrade | Actualiza los paquetes del sistema operativo a la versión más reciente.|
  
