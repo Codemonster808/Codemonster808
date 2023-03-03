@@ -36,3 +36,14 @@ As a professional with over 3 years of experience in management and data analysi
 
 # Tools / software: 
 - Excel, Python(Pyspark, Matplotlib, Pandas, Numpy, Sklearn, Tableau, SQL)
+
+###Comandos importantes de bash###
+
+| Nombre | Descripción                                                                                                                               |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| ls     | Este comando se utiliza para listar los archivos y carpetas en un directorio. La opción "-l" muestra una lista detallada de información.  |
+| cd     | Este comando se utiliza para cambiar de directorio.                                                                                       |
+| mkdir  | Este comando se utiliza para crear un nuevo directorio.                                                                                   |
+| rm     | Este comando se utiliza para eliminar archivos y carpetas.                                                                                |
+| sudo   | Este comando se utiliza para ejecutar comandos con permisos de superusuario. Es útil para realizar tareas que requieren permisos elevados.|
+ 
