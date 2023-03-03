@@ -51,7 +51,7 @@ As a professional with over 3 years of experience in management and data analysi
 
 | Alias   | Comando                        | Descripción                                                                                            |
 | ------- | ------------------------------ | -------------------------------------------------------------------------------------------------------|
-| ll      | """ ls -l """                                     | Muestra una lista detallada de los archivos y carpetas en un directorio.            |
+| ll      | ''' ls -l '''                                     | Muestra una lista detallada de los archivos y carpetas en un directorio.            |
 | c       | """ clear """                                     | Limpia la pantalla del terminal.                                                    |
 | h       | """ history """                                   | Muestra el historial de comandos ejecutados en el terminal.                         |
 | grep    | """ grep --color=auto """                         | Busca una cadena de texto en un archivo o en la salida de otro comando.             |
