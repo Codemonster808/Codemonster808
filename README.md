@@ -49,11 +49,11 @@ As a professional with over 3 years of experience in management and data analysi
  
 ### Mis alias para el bash ###
 
-| Alias   | Comando                        | Descripción                                                                         |
-| ------- | ------------------------------ | ----------------------------------------------------------------------------------  |
-| ll      | ls -l                          | Muestra una lista detallada de los archivos y carpetas en un directorio.            |
-| c       | clear                          | Limpia la pantalla del terminal.                                                    |
-| h       | history                        | Muestra el historial de comandos ejecutados en el terminal.                         |
-| grep    | grep --color=auto              | Busca una cadena de texto en un archivo o en la salida de otro comando.             |
-| update  | sudo apt-get update && sudo apt-get upgrade | Actualiza los paquetes del sistema operativo a la versión más reciente.|
+| Alias   | Comando                        | Descripción                                                                                            |
+| ------- | ------------------------------ | -------------------------------------------------------------------------------------------------------|
+| ll      | """ ls -l """                                     | Muestra una lista detallada de los archivos y carpetas en un directorio.            |
+| c       | """ clear """                                     | Limpia la pantalla del terminal.                                                    |
+| h       | """ history """                                   | Muestra el historial de comandos ejecutados en el terminal.                         |
+| grep    | """ grep --color=auto """                         | Busca una cadena de texto en un archivo o en la salida de otro comando.             |
+| update  | """sudo apt-get update && sudo apt-get upgrade""" | Actualiza los paquetes del sistema operativo a la versión más reciente.|
  
