@@ -33,7 +33,11 @@ As a professional with over 3 years of experience in management and data analysi
 - COURSERA Programa Especializado - NoSQL, Big Data, and Spark Foundations
     Dates Nov 2022-Nov2022
     https://www.coursera.org/account/accomplishments/specialization/QJ92HH9XVDF6
+- Udemy Complete SQL and Databases Bootcamp: Zero to Mastery [2023]
+    Dates Mar 2023-Mar2023
+    https://www.udemy.com/certificate/UC-9bab812a-6a8f-48b5-935c-fca5a030a286/
 - Bootcamp Full-Stack JavaScript - Guillermo Rodas en Udefined Academy
+    Dates Feb 2023 - Jun2023(cursando)
     https://undefined.academy/
     
 
