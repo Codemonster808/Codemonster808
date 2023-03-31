@@ -33,6 +33,9 @@ As a professional with over 3 years of experience in management and data analysi
 - COURSERA Programa Especializado - NoSQL, Big Data, and Spark Foundations
     Dates Nov 2022-Nov2022
     https://www.coursera.org/account/accomplishments/specialization/QJ92HH9XVDF6
+- Bootcamp Full-Stack JavaScript - Guillermo Rodas en Udefined Academy
+    https://undefined.academy/
+    
 
 # Tools / software: 
 - Excel, Python(Pyspark, Matplotlib, Pandas, Numpy, Sklearn, Tableau, SQL)
