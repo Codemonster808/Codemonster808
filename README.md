@@ -65,6 +65,8 @@ Data Engineer with **5+ years** building Python and SQL pipelines across Hadoop,
 - **Databricks Certified Data Engineer Associate** (2024)  
   [Credential](https://credentials.databricks.com/15c5b139-4693-4016-9bf9-087c0a6439a5)
 - Databricks Academy Accreditation — Lakehouse Fundamentals (2024)
+- Claude Certified Architect  
+https://www.credly.com/badges/ec650bb8-91ff-4904-875e-82be6e24dbbc/linked_in?t=tiaevp 
 
 ---
 
