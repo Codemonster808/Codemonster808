@@ -1,66 +1,84 @@
 # Santiago Venegas
 
-As a professional with over 3 years of experience in management and data analysis, I have honed my skills in data wrangling using pandas and numpy, as well as building supervised and unsupervised algorithms. I am also proficient in tools such as Tableau, Pyspark, Postgres SQL, Excel and Python, which I have used to effectively analyze data and make informed decisions. My experience in ETL and BI through various job projects highlights my ability to apply my skills to real-world scenarios and achieve successful outcomes.
+**Data Engineer** | Bogotá, Colombia  
+[LinkedIn](https://www.linkedin.com/in/santiagoveneg1/) · santiago.venegas@yandex.com
 
-# Work experience
-- **Ifood Data Analyst I**
-    Dates Agust 2022 – Nov2022
-    - designed and executed ETL processes utilizing PySpark and curated largescale datasets for insightful analysis
-    - Creating visually stunning and informative dashboards using Tableau.
-    - A/B testing for various experiments to drive data-driven decision making and optimize performance
+Data Engineer with **5+ years** building Python and SQL pipelines across Hadoop, Spark, Apache Impala, and PostgreSQL. Focused on ETL/ELT, data quality, schema migration, and high-volume customer engagement workflows in financial services.  
+**AWS Solutions Architect – Associate** · **Databricks Data Engineer Associate**
 
-- **Foodology Demand- Data Analyst**
-    Dates Feb 2022 – Jul2022
-    - monitoring and continually enhancing predictive models in jupyter notebook through data cleansing whit pandas and identification of key variables
-    - statistical techniques, data mining and data BI in power bi has enabled me to drive significant improvements in model performance and accuracy
+---
 
-- **SunRun Back office- Data Analyst**
-    Dates April 2020 – November 2021
-    - information management, developing intuitive and informative dashboards in tableu, and identifying areas of failure.
-    - data quality control and have successfully implemented data cleansing procedures on Salesforce CRM, resulting in streamlined data management and improved decision-making capabilities
+## Work experience
 
-- **Tapclicks Marketing research expert**
-    Dates Mar 2019 – Agust 2019
-    - Qualified leads generation throught web scrapping and sql queriying
-    - Preprocessing of data with sql
-    - Automation of email generation process
+### EPAM — Client: Mastercard
+**Data Engineer** | March 2024 – Present
+- Built daily multi-step Impala SQL pipelines for card engagement: segmentation, consent/eligibility rules, journey state, and campaign-ready communication exports
+- Designed Python orchestration with checkpoints, retries, and logging so long warehouse extracts/loads can resume without full restarts
+- Migrated engagement business logic from Impala to PostgreSQL (PL/pgSQL), preserving history and exit rules
+- Partnered with marketing/agency stakeholders on count reconciliations and edge cases (duplicates, consent semantics), documenting production fixes
 
-# Education
-- UNIVERSITY FOUNDATION CAFAM BHBA(Bachelor in Hospitality business administration)
-    Dates 2013– 2017
-- ACAMICA /Digital House Data Scientist
-    Dates Mar 2021 –Dec 2021
-- COURSERA Programa Especializado - NoSQL, Big Data, and Spark Foundations
-    Dates Nov 2022-Nov2022
-    https://www.coursera.org/account/accomplishments/specialization/QJ92HH9XVDF6
-- Udemy Complete SQL and Databases Bootcamp: Zero to Mastery [2023]
-    Dates Mar 2023-Mar2023
-    https://www.udemy.com/certificate/UC-9bab812a-6a8f-48b5-935c-fca5a030a286/
-- Bootcamp Full-Stack JavaScript - Guillermo Rodas en Udefined Academy
-    Dates Feb 2023 - Jun2023(cursando)
-    https://undefined.academy/
-    
+### Finaipro — Client: Bancolombia
+**Data Engineer** | May 2023 – February 2024
+- Built ETL pipelines with Spark, Python, and Apache Sqoop to automate ingestion at scale on the Hadoop stack
+- Managed large-scale file processing on Hadoop HDFS for reliable batch delivery
+- Deployed and scheduled ETL packages for on-time daily execution
 
-# Tools / software: 
-- Excel, Python(Pyspark, Matplotlib, Pandas, Numpy, Sklearn, Tableau, SQL)
+### iFood
+**Data Analyst** | August 2022 – November 2022
+- Designed and executed PySpark ETL processes, curating large-scale datasets for analysis
+- Built Tableau dashboards that turned operational data into clear, actionable views
+- Led A/B testing experiments that informed data-driven product and performance decisions
 
-### Comandos importantes de bash ###
+### Foodology
+**Demand Data Analyst** | February 2022 – July 2022
+- Improved predictive model accuracy in Jupyter using Pandas cleansing and key variable selection
+- Applied statistical techniques and Power BI reporting to strengthen model monitoring and performance
 
-| Nombre | Descripción                                                                                                                               |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| ls     | Este comando se utiliza para listar los archivos y carpetas en un directorio. La opción "-l" muestra una lista detallada de información.  |
-| cd     | Este comando se utiliza para cambiar de directorio.                                                                                       |
-| mkdir  | Este comando se utiliza para crear un nuevo directorio.                                                                                   |
-| rm     | Este comando se utiliza para eliminar archivos y carpetas.                                                                                |
-| sudo   | Este comando se utiliza para ejecutar comandos con permisos de superusuario. Es útil para realizar tareas que requieren permisos elevados.|
- 
-### Mis alias para el bash ###
+### SunRun
+**Back Office – Data Analyst** | April 2020 – November 2021
+- Built dashboards that highlighted operational failure points for faster remediation
+- Implemented Salesforce CRM data quality and cleansing procedures, streamlining data used for decisions
 
-| Alias   | Comando                        | Descripción                                                                                            |
-| ------- | ------------------------------ | -------------------------------------------------------------------------------------------------------|
-| ll      | ''' ls -l '''                                     | Muestra una lista detallada de los archivos y carpetas en un directorio.            |
-| c       | """ clear """                                     | Limpia la pantalla del terminal.                                                    |
-| h       | """ history """                                   | Muestra el historial de comandos ejecutados en el terminal.                         |
-| grep    | """ grep --color=auto """                         | Busca una cadena de texto en un archivo o en la salida de otro comando.             |
-| update  | """sudo apt-get update && sudo apt-get upgrade""" | Actualiza los paquetes del sistema operativo a la versión más reciente.|
- 
+### Tapclicks
+**Marketing Research Expert** | March 2019 – August 2019
+- Generated qualified leads via web scraping and SQL querying
+- Preprocessed data with SQL and automated email generation to reduce manual outreach effort
+
+---
+
+## Education
+
+- **University Foundation CAFAM** — BHBA (Bachelor in Hospitality Business Administration) | 2013 – 2017
+- **Acamica / Digital House** — Data Scientist | March 2021 – December 2021
+- **Coursera** — NoSQL, Big Data, and Spark Foundations | November 2022  
+  [Certificate](https://www.coursera.org/account/accomplishments/specialization/QJ92HH9XVDF6)
+- **Udemy** — Complete SQL and Databases Bootcamp: Zero to Mastery | March 2023  
+  [Certificate](https://www.udemy.com/certificate/UC-9bab812a-6a8f-48b5-935c-fca5a030a286/)
+- **Undefined Academy** — Full-Stack JavaScript Bootcamp (Guillermo Rodas) | February 2023 – June 2023  
+  [Program](https://undefined.academy/)
+
+---
+
+## Certifications
+
+- **AWS Certified Solutions Architect – Associate** (2025)  
+  [Credly](https://www.credly.com/badges/95f7582e-d7d2-4051-921c-388343044bf4/linked_in_profile)
+- **Databricks Certified Data Engineer Associate** (2024)  
+  [Credential](https://credentials.databricks.com/15c5b139-4693-4016-9bf9-087c0a6439a5)
+- Databricks Academy Accreditation — Lakehouse Fundamentals (2024)
+
+---
+
+## Skills / tools
+
+| Area | Tools |
+|------|--------|
+| **SQL / databases** | Apache Impala, Hive-compatible SQL, PostgreSQL (PL/pgSQL), MySQL, window functions, CTEs |
+| **Python** | pandas, PySpark, NumPy, pyodbc, psycopg2, SQLAlchemy |
+| **Big data** | Hadoop, Spark, Apache Sqoop, Databricks |
+| **Cloud** | AWS (SAA) |
+| **Data engineering** | ETL/ELT, batch integration, checkpoint/resume loads, data quality, schema migration, scheduling |
+| **BI / analytics** | Tableau, Power BI, Excel |
+| **ML (background)** | scikit-learn, Jupyter |
+
+
