@@ -1,7 +1,6 @@
 # Santiago Venegas
 
 **Data Engineer** | Bogotá, Colombia  
-[LinkedIn](https://www.linkedin.com/in/santiagoveneg1/) · santiago.venegas@yandex.com
 
 Data Engineer with **5+ years** building Python and SQL pipelines across Hadoop, Spark, Apache Impala, and PostgreSQL. Focused on ETL/ELT, data quality, schema migration, and high-volume customer engagement workflows in financial services.  
 **AWS Solutions Architect – Associate** · **Databricks Data Engineer Associate**
