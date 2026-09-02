@@ -45,6 +45,20 @@ Data Engineer with **5+ years** building Python and SQL pipelines across Hadoop,
 
 ---
 
+## Portfolio
+
+Five LocalStack-based projects proving production-grade Python/SQL/PySpark data engineering plus two RAG/agentic builds — each with real tests against emulated AWS infra (not mocks), CI that lints/type-checks/security-scans on every push, and an ADR per repo naming the alternatives rejected, not just the choice made. Full index, build order, and rationale: **[portfolio-overview](https://github.com/Codemonster808/portfolio-overview)**.
+
+| # | Repo | Sector | Core skill it proves |
+|---|---|---|---|
+| 1 | [fintech-txn-integrity-pipeline](https://github.com/Codemonster808/fintech-txn-integrity-pipeline) | Fintech | Exactly-once ingestion, schema evolution, Parquet compaction |
+| 2 | [banking-engagement-warehouse](https://github.com/Codemonster808/banking-engagement-warehouse) | Fintech | Dimensional modeling, SCD Type 2, quality gates that block bad loads |
+| 3 | [agentic-claims-copilot](https://github.com/Codemonster808/agentic-claims-copilot) | Fintech / AI | Agentic retrieval loop (plan → retrieve → observe → retry) with a hard token budget |
+| 4 | [delivery-eta-mesh](https://github.com/Codemonster808/delivery-eta-mesh) | Food delivery | Event-time handling, Spark skew mitigation, Java/Fargate worker |
+| 5 | [geo-doc-extraction-agent](https://github.com/Codemonster808/geo-doc-extraction-agent) | Mining / AI | Confidence-gated extraction, domain schema validation |
+
+---
+
 ## Education
 
 - **University Foundation CAFAM** — BHBA (Bachelor in Hospitality Business Administration) | 2013 – 2017
