@@ -1,9 +1,49 @@
-# Santiago Venegas
+### Hi there 👋, I'm Santiago Venegas
 
-**Data Engineer** | Bogotá, Colombia  
+**Sr. Data Engineer** | Bogotá, Colombia
 
-Data Engineer with **5+ years** building Python and SQL pipelines across Hadoop, Spark, Apache Impala, and PostgreSQL. Focused on ETL/ELT, data quality, schema migration, and high-volume customer engagement workflows in financial services.  
+Senior Data Engineer with **6+ years** of experience across Python, SQL, Java, and Go — frameworks like PySpark, FastAPI/Flask, and Spring Boot/Gin, on cloud platforms including DynamoDB, S3, Step Functions, Lambda, EC2, Fargate, and Redshift. Specialized in fintech, food delivery, and mining (geophysical data extraction), at companies including iFood, Bancolombia, and Mastercard: daily multi-step Impala pipelines, ownership of a Postgres engagement process DB, migrating Impala logic to PostgreSQL, checkpointed extracts with mid-run resume, and production PySpark ETL in banking.
 **AWS Solutions Architect – Associate** · **Databricks Data Engineer Associate**
+
+## 🚀 About Me
+- 🔭 I'm currently working at **iFood** as a Data Engineer
+- 🌱 Currently building a 5-repo portfolio of production-pattern data pipelines (fintech, food delivery, mining) — real tests against emulated AWS infra, CI that lints/type-checks/security-scans, ADRs naming the trade-offs
+- 👯 Looking to collaborate on interesting data engineering / AI projects
+- 💬 Ask me about Python, PySpark, SQL, AWS, agentic/RAG pipelines
+- 📫 How to reach me: **santiago.venegas@yandex.com**
+- 📍 Located in: **Bogotá, Colombia**
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-007ACC?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-007ACC?style=flat-square&logo=go&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-007ACC?style=flat-square&logo=gnubash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Step Functions](https://img.shields.io/badge/-Step%20Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://helio-github-stats.vercel.app/api?username=Codemonster808&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Codemonster808&theme=radical&hide_border=true)
+
+![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=Codemonster808&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -45,7 +85,7 @@ Data Engineer with **5+ years** building Python and SQL pipelines across Hadoop,
 
 ---
 
-## Portfolio
+## 💼 Portfolio
 
 Five LocalStack-based projects proving production-grade Python/SQL/PySpark data engineering plus two RAG/agentic builds — each with real tests against emulated AWS infra (not mocks), CI that lints/type-checks/security-scans on every push, and an ADR per repo naming the alternatives rejected, not just the choice made. Full index, build order, and rationale: **[portfolio-overview](https://github.com/Codemonster808/portfolio-overview)**.
 
@@ -80,7 +120,7 @@ Five LocalStack-based projects proving production-grade Python/SQL/PySpark data 
   [Credential](https://credentials.databricks.com/15c5b139-4693-4016-9bf9-087c0a6439a5)
 - Databricks Academy Accreditation — Lakehouse Fundamentals (2024)
 - Claude Certified Architect (2026)
-  [Credential](https://www.credly.com/badges/ec650bb8-91ff-4904-875e-82be6e24dbbc/linked_in?t=tiaevp) 
+  [Credential](https://www.credly.com/badges/ec650bb8-91ff-4904-875e-82be6e24dbbc/linked_in?t=tiaevp)
 
 ---
 
@@ -88,12 +128,21 @@ Five LocalStack-based projects proving production-grade Python/SQL/PySpark data 
 
 | Area | Tools |
 |------|--------|
-| **SQL / databases** | Apache Impala, Hive-compatible SQL, PostgreSQL (PL/pgSQL), MySQL, window functions, CTEs |
+| **Languages** | Python, SQL, Java, Go |
+| **SQL / databases** | Apache Impala, Hive-compatible SQL, PostgreSQL (PL/pgSQL), MySQL, DynamoDB, window functions, CTEs |
 | **Python** | pandas, PySpark, NumPy, pyodbc, psycopg2, SQLAlchemy |
+| **Frameworks** | FastAPI, Flask, Spring Boot, Gin |
 | **Big data** | Hadoop, Spark, Apache Sqoop, Databricks |
-| **Cloud** | AWS (SAA) |
+| **Cloud (AWS)** | S3, DynamoDB, Step Functions, Lambda, EC2, Fargate, Redshift — AWS SAA certified |
 | **Data engineering** | ETL/ELT, batch integration, checkpoint/resume loads, data quality, schema migration, scheduling |
 | **BI / analytics** | Tableau, Power BI, Excel |
 | **ML (background)** | scikit-learn, Jupyter |
 
+## 📫 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-venegas1)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santiago.venegas@yandex.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Codemonster808/portfolio-overview)
+
+---
+⭐️ From [Codemonster808](https://github.com/Codemonster808)
