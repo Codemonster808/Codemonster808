@@ -6,12 +6,12 @@ Senior Data Engineer with **6+ years** of experience across Python, SQL, Java, a
 **AWS Solutions Architect – Associate** · **Databricks Data Engineer Associate**
 
 ## 🚀 About Me
-- 🔭 I'm currently working at **iFood** as a Data Engineer
+- 🔭 I'm currently working at **Epam** as a Sr Data Engineer
 - 🌱 Currently building a 5-repo portfolio of production-pattern data pipelines (fintech, food delivery, mining) — real tests against emulated AWS infra, CI that lints/type-checks/security-scans, ADRs naming the trade-offs
 - 👯 Looking to collaborate on interesting data engineering / AI projects
 - 💬 Ask me about Python, PySpark, SQL, AWS, agentic/RAG pipelines
 - 📫 How to reach me: **santiago.venegas@yandex.com**
-- 📍 Located in: **Bogotá, Colombia**
+- 📍 Located in: **Brooksville , United states**
 
 ## 🛠️ Tech Stack
 
