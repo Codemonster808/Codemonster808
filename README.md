@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Santiago Venegas
 
-**Sr. Data Engineer** | Bogotá, Colombia
+**Sr. Data Engineer** | 
 
 Senior Data Engineer with **6+ years** of experience across Python, SQL, Java, and Go — frameworks like PySpark, FastAPI/Flask, and Spring Boot/Gin, on cloud platforms including DynamoDB, S3, Step Functions, Lambda, EC2, Fargate, and Redshift. Specialized in fintech, food delivery, and mining (geophysical data extraction), at companies including iFood, Bancolombia, and Mastercard: daily multi-step Impala pipelines, ownership of a Postgres engagement process DB, migrating Impala logic to PostgreSQL, checkpointed extracts with mid-run resume, and production PySpark ETL in banking.
 **AWS Solutions Architect – Associate** · **Databricks Data Engineer Associate**
